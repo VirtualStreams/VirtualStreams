@@ -18,21 +18,21 @@ Zero‑trust architecture
 Cloud IAM and identity security
 
 Ransomware evolution and mitigation
+MITRE Cyber Kill Chain TTPS
 
-Supply chain attack vectors
-
-Threat intelligence feeds (CISA, NIST, Exploit‑DB)
-
-### Tools & Platforms I Work With
-Kali Linux
+### Threat intelligence feeds (CISA, NIST, Exploit‑DB)
+-OSINT
+-https://osintgramwork.com
+### Tools & Platforms
+-Kali Linux
+-SIFT
+-Cyber Chef
+-Red Hat
+-RHEL Administration (Web Server)
 
 ### VMware Workstation Pro
 VMware Security: https://www.vmware.com/security.html
-
 Git & GitHub
-
 GitHub Pages
-
 Virtualization and sandbox environments
-
 Linux command‑line workflows
